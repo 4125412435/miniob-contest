@@ -1,0 +1,1 @@
+docker run -d --name miniob -p 10000:4125 -v C:\Users\si_12\MyProject\Git\miniob:/root/miniob --privileged oceanbase/miniob
